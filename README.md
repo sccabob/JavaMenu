@@ -1,2 +1,2 @@
 # JavaMenu
-This is a sim[le user menu for Java applications.
+This is a simle user menu for Java applications.
